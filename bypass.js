@@ -3,8 +3,8 @@
 // @namespace    https://github.com/ro0ti/Twitch-Ad-Bypass
 // @version      14.0.0
 // @description  Multiple solutions for blocking Twitch ads (vaft)
-// @updateURL    https://github.com/ro0ti/Twitch-Ad-Bypass/raw/master/bypass.js
-// @downloadURL  https://github.com/ro0ti/Twitch-Ad-Bypass/raw/master/bypass.js
+// @updateURL    https://raw.githubusercontent.com/ro0ti/Twitch-Ad-Bypass/refs/heads/main/bypass.js
+// @downloadURL  https://raw.githubusercontent.com/ro0ti/Twitch-Ad-Bypass/refs/heads/main/bypass.js
 // @author       https://github.com/ro0ti
 // @match        *://*.twitch.tv/*
 // @run-at       document-start
